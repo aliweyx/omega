@@ -6,3 +6,9 @@
 ul , ol{
     list-style: none;
 }
+img{
+    width: 100%;
+}
+body{
+    font-family: sans-serif;
+}
